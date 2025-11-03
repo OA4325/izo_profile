@@ -18,6 +18,7 @@ class ConstantApp {
             MediaQuery.of(context).size.height;
   }
 
+
   static TextStyle getTextStyle({
     required BuildContext context,
     Color? color,
