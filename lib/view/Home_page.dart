@@ -15,9 +15,9 @@ const Color backgroundColor = Color(0xFFF0F0F0);
 const Color cardColor = Colors.white;
 
 // الروابط
-const String contactUrl = 'https://izo.ae/contact';
-const String productsUrl = 'https://izo.ae/products';
-const String websiteUrl = 'https://izo.ae';
+const String contactUrl = 'https://izomena.com/contact';
+const String productsUrl = 'https://izomena.com/products';
+const String websiteUrl = 'https://izomena.com/';
 const String whatsAppNumber = '+971501770199';
 const String locationUrl = 'https://www.google.com/maps/place/IZO+-+FUTURE+VISION+TR+LLC+-+%D8%B1%D8%A4%D9%8A%D8%A9+%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%82%D8%A8%D9%84+%D8%B0+%D9%85+%D9%85%E2%80%AD/@25.3383315,55.4081303,17z/data=!3m1!4b1!4m6!3m5!1s0x3e5f590341cf20c7:0x17605e395f34a663!8m2!3d25.3383267!4d55.4055607!16s%2Fg%2F11y2p8wfd0?authuser=0&entry=ttu&g_ep=EgoyMDI1MTAyMi4wIKXMDSoASAFQAw%3D%3D';
 const String facebookUrl = 'https://www.facebook.com/izo.mena/';
